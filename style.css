@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: #FCF1D0;
+    background-color: #22396F;
+    text-align: center;
+}
+h2{
+    font-size: 3rem;
+    background-color: #0D1C42;
+}
+h1{
+    font-size: 3rem;
+    background-color:#010736 ;
+}
+button {
+    padding: 15px 25px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+    background-color: #0D1C42;
+}
+
+.correct {
+    background-color: #16803D;
+    color: white;
+}
+
+.wrong {
+    background-color: red;
+    color: white;
+}
+#score{
+    font-size: 3rem;
+}
+#next{
+    
+    background-color: #7692FF;
+}
+#new{
+    background-color: #7692FF;
+    margin: auto;
+}
+
